@@ -1,0 +1,32 @@
+{
+    "anims": [
+        {
+            "key": "movs",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 15,
+            "frames": [
+                {
+                    "key": "sol",
+                    "frame": "l1_sol1"
+                },
+                {
+                    "key": "sol",
+                    "frame": "l1_sol2"
+                },
+                {
+                    "key": "sol",
+                    "frame": "l1_sol3"
+                },
+                {
+                    "key": "sol",
+                    "frame": "l1_sol4"
+                },
+                {
+                    "key": "sol",
+                    "frame": "l1_sol5"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "anims": [
+        {
+            "key": "mov",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "planta",
+                    "frame": "l1_planta1"
+                },
+                {
+                    "key": "planta",
+                    "frame": "l1_planta2"
+                },
+                {
+                    "key": "planta",
+                    "frame": "l1_planta3"
+                },
+                {
+                    "key": "planta",
+                    "frame": "l1_planta4"
+                },
+                {
+                    "key": "planta",
+                    "frame": "l1_planta5"
+                }
+            ]
+        }
+    ]
+}

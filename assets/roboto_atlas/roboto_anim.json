@@ -1,0 +1,36 @@
+{
+    "anims": [
+        {
+            "key": "robokill",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "roboto",
+                    "frame": "layer_1_sprite_1"
+                },
+                {
+                    "key": "roboto",
+                    "frame": "layer_2_sprite_1"
+                },
+                {
+                    "key": "roboto",
+                    "frame": "layer_3_sprite_1"
+                },
+                {
+                    "key": "roboto",
+                    "frame": "layer_4_sprite_1"
+                },
+                {
+                    "key": "roboto",
+                    "frame": "layer_5_sprite_1"
+                },
+                {
+                    "key": "roboto",
+                    "frame": "layer_6_sprite_1"
+                }
+            ]
+        }
+    ]
+}

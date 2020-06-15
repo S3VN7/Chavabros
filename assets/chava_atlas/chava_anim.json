@@ -1,0 +1,180 @@
+{
+    "anims": [
+        {
+            "key": "saludo",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "chava",
+                    "frame": "saludo_1"
+                },
+                {
+                    "key": "chava",
+                    "frame": "saludo_2"
+                },
+                {
+                    "key": "chava",
+                    "frame": "saludo_3"
+                },
+                {
+                    "key": "chava",
+                    "frame": "saludo_4"
+                },
+                {
+                    "key": "chava",
+                    "frame": "saludo_5"
+                },
+                {
+                    "key": "chava",
+                    "frame": "saludo_6"
+                },
+                {
+                    "key": "chava",
+                    "frame": "saludo_5"
+                },
+                {
+                    "key": "chava",
+                    "frame": "saludo_6"
+                },
+                {
+                    "key": "chava",
+                    "frame": "saludo_5"
+                }
+            ]
+        },
+        {
+            "key": "poder",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "chava",
+                    "frame": "poder1"
+                },
+                {
+                    "key": "chava",
+                    "frame": "poder2"
+                },
+                {
+                    "key": "chava",
+                    "frame": "poder3"
+                },
+                {
+                    "key": "chava",
+                    "frame": "poder4"
+                },
+                {
+                    "key": "chava",
+                    "frame": "poder5"
+                },
+                {
+                    "key": "chava",
+                    "frame": "poder6"
+                },
+                {
+                    "key": "chava",
+                    "frame": "poder7"
+                },
+                {
+                    "key": "chava",
+                    "frame": "poder8"
+                },
+                {
+                    "key": "chava",
+                    "frame": "poder9"
+                },
+                {
+                    "key": "chava",
+                    "frame": "poder10"
+                },
+                {
+                    "key": "chava",
+                    "frame": "poder7"
+                },
+                {
+                    "key": "chava",
+                    "frame": "poder9"
+                },
+                {
+                    "key": "chava",
+                    "frame": "poder6"
+                },
+                {
+                    "key": "chava",
+                    "frame": "poder8"
+                },
+                {
+                    "key": "chava",
+                    "frame": "poder10"
+                }
+            ]
+        },
+        {
+            "key": "transformacion",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "chava",
+                    "frame": "super1"
+                },
+                {
+                    "key": "chava",
+                    "frame": "super2"
+                },
+                {
+                    "key": "chava",
+                    "frame": "super3"
+                },
+                {
+                    "key": "chava",
+                    "frame": "super4"
+                },
+                {
+                    "key": "chava",
+                    "frame": "super5"
+                },
+                {
+                    "key": "chava",
+                    "frame": "super6"
+                },
+                {
+                    "key": "chava",
+                    "frame": "super6"
+                },
+                {
+                    "key": "chava",
+                    "frame": "super6"
+                },
+                {
+                    "key": "chava",
+                    "frame": "super6"
+                },
+                {
+                    "key": "chava",
+                    "frame": "super5"
+                },
+                {
+                    "key": "chava",
+                    "frame": "super4"
+                },
+                {
+                    "key": "chava",
+                    "frame": "super3"
+                },
+                {
+                    "key": "chava",
+                    "frame": "super2"
+                },
+                {
+                    "key": "chava",
+                    "frame": "super1"
+                }
+            ]
+        }
+    ]
+}

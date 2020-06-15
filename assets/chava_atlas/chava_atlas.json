@@ -1,0 +1,294 @@
+{
+    "frames": [
+        {
+            "filename": "saludo_1",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 33,
+                "h": 33
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "saludo_2",
+            "frame": {
+                "x": 33,
+                "y": 0,
+                "w": 33,
+                "h": 33
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "saludo_3",
+            "frame": {
+                "x": 66,
+                "y": 0,
+                "w": 33,
+                "h": 33
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "saludo_4",
+            "frame": {
+                "x": 99,
+                "y": 0,
+                "w": 33,
+                "h": 33
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "saludo_5",
+            "frame": {
+                "x": 132,
+                "y": 0,
+                "w": 33,
+                "h": 33
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "saludo_6",
+            "frame": {
+                "x": 165,
+                "y": 0,
+                "w": 33,
+                "h": 33
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "super1",
+            "frame": {
+                "x": 198,
+                "y": 0,
+                "w": 33,
+                "h": 33
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "super2",
+            "frame": {
+                "x": 231,
+                "y": 0,
+                "w": 33,
+                "h": 33
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "super3",
+            "frame": {
+                "x": 0,
+                "y": 33,
+                "w": 33,
+                "h": 33
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "super4",
+            "frame": {
+                "x": 33,
+                "y": 33,
+                "w": 33,
+                "h": 33
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "super5",
+            "frame": {
+                "x": 66,
+                "y": 33,
+                "w": 33,
+                "h": 33
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "super6",
+            "frame": {
+                "x": 99,
+                "y": 33,
+                "w": 33,
+                "h": 33
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "poder1",
+            "frame": {
+                "x": 132,
+                "y": 33,
+                "w": 33,
+                "h": 33
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "poder2",
+            "frame": {
+                "x": 165,
+                "y": 33,
+                "w": 33,
+                "h": 33
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "poder3",
+            "frame": {
+                "x": 198,
+                "y": 33,
+                "w": 33,
+                "h": 33
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "poder4",
+            "frame": {
+                "x": 231,
+                "y": 33,
+                "w": 33,
+                "h": 33
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "poder5",
+            "frame": {
+                "x": 0,
+                "y": 66,
+                "w": 33,
+                "h": 33
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "poder6",
+            "frame": {
+                "x": 33,
+                "y": 66,
+                "w": 33,
+                "h": 33
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "poder7",
+            "frame": {
+                "x": 66,
+                "y": 66,
+                "w": 33,
+                "h": 33
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "poder8",
+            "frame": {
+                "x": 99,
+                "y": 66,
+                "w": 33,
+                "h": 33
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "poder9",
+            "frame": {
+                "x": 132,
+                "y": 66,
+                "w": 33,
+                "h": 33
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "poder10",
+            "frame": {
+                "x": 165,
+                "y": 66,
+                "w": 33,
+                "h": 33
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Phaser3",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
